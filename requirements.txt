@@ -6,11 +6,9 @@ ultralytics
 transformers
 opencv-python
 pillow
-numpy
 pandas
 seaborn
 tqdm
-scikit-learn
 
 dataclasses-json
 norfair
