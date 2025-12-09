@@ -11,6 +11,7 @@ pillow
 pandas
 seaborn
 tqdm
+supervision
 
 dataclasses-json
 norfair
