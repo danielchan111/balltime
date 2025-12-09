@@ -1,0 +1,22 @@
+# balltime/requirements.txt
+
+torch
+torchvision
+ultralytics
+transformers
+opencv-python
+pillow
+numpy
+pandas
+seaborn
+tqdm
+scikit-learn
+
+dataclasses-json
+norfair
+gdown
+pydantic
+pydantic-settings
+
+# video models
+git+https://github.com/facebookresearch/pytorchvideo
