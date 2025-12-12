@@ -26,7 +26,7 @@ import cv2
 # Ensure local module import when run from project root
 PROJECT_ROOT = Path(__file__).resolve().parent
 sys.path.append(str(PROJECT_ROOT))
-from video_objects import build_and_write_video_labels_csv_row
+from src.video_objects import build_and_write_video_labels_csv_row
 
 
 def play_video(video_path: Path, max_width: int = 960) -> None:
