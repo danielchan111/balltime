@@ -26,9 +26,9 @@ Our project uses an existing ball detection model (https://github.com/masouduut9
 
 ## Video Links
 
-Demo Video: [Leave blank]
+Demo Video: [https://drive.google.com/file/d/15b8x-wLkM0HGUx1z0Itvm6U7liP_AqOX/view?usp=sharing]
 
-Technical Walkthrough: [Leave blank]
+Technical Walkthrough: [https://drive.google.com/file/d/1yBCMeGApUO1rT__iv8leAIiEp3RqLe7z/view?usp=sharing]
 
 ## Evaluation
 
